@@ -1,0 +1,20 @@
+{
+  "name": "upload-metadata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "base-path-converter": "^1.0.2",
+    "dotenv": "^16.0.2",
+    "form-data": "^4.0.0",
+    "fs-extra": "^10.1.0",
+    "recursive-fs": "^2.1.0",
+    "rimraf": "^3.0.2"
+  }
+}
